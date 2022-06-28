@@ -234,7 +234,7 @@
             stroke="black"
           ></path>
         </svg>
-        <h1 class="text-base md:text-xl uppercase">Deploy</h1>
+        <h1 class="text-base md:text-xl uppercase">Facial</h1>
       </div>
     </div>
   </div>
