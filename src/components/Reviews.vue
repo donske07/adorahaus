@@ -28,11 +28,8 @@ const shuffedReviews = shuffleArray(reviews).slice(0, 5);
           <div
             class="flex flex-col justify-center pb-5 xl:pb-5 lg:pb-10 pt-6 space-y-6"
           >
-            <h1 class="text-4xl md:text-6xl text-center hidden md:flex md:py-6">
-              Testimonials & Thoughts
-            </h1>
-            <h1 class="md:hidden text-4xl md:text-6xl text-center px-2 md:pb-6">
-              Testimonials <br />& Thoughts
+            <h1 class="text-4xl md:text-6xl text-center md:flex md:py-6">
+              What Our Clients Say
             </h1>
             <div v-for="review in shuffedReviews">
               <h1 class="text-center text-3xl">{{ review.name }}</h1>
