@@ -9,7 +9,7 @@ import photo from "../assets/adorahaus4.jpg";
         <img :src="photo" class="w-full lg:w-1/2" />
         <div class="text-2xl flex items-center px-12">
           <div
-            class="flex text-xl md:text-2xl flex-col justify-center pb-5 xl:pb-5 lg:pb-10 pt-6 space-y-6"
+            class="flex text-lg md:text-xl flex-col justify-center pb-5 xl:pb-5 lg:pb-10 pt-6 space-y-6"
           >
             <h1 class="text-4xl md:text-6xl text-center md:py-6">Our Story</h1>
             <p>

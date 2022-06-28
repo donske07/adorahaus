@@ -16,7 +16,7 @@ import video from "../assets/video.mp4";
     <div class="md:w-1/2 text-gray-500 flex justify-center md:justify-between">
       <div class="flex flex-col justify-start px-10 space-y-2">
         <a href="#"><img class="w-96" :src="logoUrl" /></a>
-        <h1 class="font-cormorant py-2 text-3xl md:text-5xl">Working Hours</h1>
+        <h1 class="font-cormorant py-2 text-3xl md:text-4xl">Working Hours</h1>
         <div>
           <p class="text-2xl">Mon - Weds: 9am - 5:30pm</p>
           <p class="text-2xl">Thurs - Fri: 9am - 7:00pm</p>
