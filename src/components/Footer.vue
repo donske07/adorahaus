@@ -13,7 +13,7 @@ import video from "../assets/video.mp4";
       </video-background>
     </div>
     <a id="contact"></a>
-    <div class="md:w-1/2 opacity-60 flex justify-center md:justify-between">
+    <div class="md:w-1/2 text-gray-500 flex justify-center md:justify-between">
       <div class="flex flex-col justify-start px-10 space-y-2">
         <a href="#"><img class="w-96" :src="logoUrl" /></a>
         <h1 class="font-cormorant py-2 text-3xl md:text-5xl">Working Hours</h1>
@@ -60,7 +60,7 @@ import video from "../assets/video.mp4";
     </div>
   </div>
   <div
-    class="flex justify-center md:justify-end font-catamaran text-lg py-1 opacity-60"
+    class="flex justify-center md:justify-end font-catamaran text-lg py-1 text-gray-500"
   >
     <p>All rights reserved 2022. Adora Haus Pty Ltd</p>
   </div>
