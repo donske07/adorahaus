@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Essential Manicure",
+    "price": "50",
+    "description": "- Lacquer polish $50 - Gel polish $70 - Dipping powder $85"
+  },
+  {
+    "name": "Essential Pedicure",
+    "price": "55",
+    "description": "- Lacquer polish $55 - Gel polish $75"
+  },
+  {
+    "name": "Quick Sess",
+    "price": "30",
+    "description": "- shape, cuticle care, lacquer polish and cuticle oil $30"
+  },
+  {
+    "name": "Men's care",
+    "price": "45",
+    "description": "- Men's manicure $45 - Men's pedicure $60 - Men's essential package $90"
+  },
+  {
+    "name": "Dipping powder",
+    "price": "55",
+    "description": "- On natural nails $55 - Extensions $70 - ombre/french addon $15"
+  },
+  {
+    "name": "Acrylic",
+    "price": "90",
+    "description": "- Full set $90 - Refill $70 - Soak off with care $15 *complimentary gel polish application"
+  },
+  {
+    "name": "Waxing",
+    "price": "20",
+    "description": "- Brows $20 - Upper lips $15 - Brows and lips $35 - Chin $15 - Under arms $20 - Half arms $30 - Full arms $40 - Bikini $25 - Brazillian $50 - Bottom $10 - Legs $50 - Half legs $30 - Toes or fingers $5 - Back $50 - Chest $40"
+  },
+  {
+    "name": "Classic Lashes 1 to 1 ratio",
+    "price": "110",
+    "description": "- 2 weeks refill $70 - 3 weeks refill $80"
+  },
+  {
+    "name": "Volume Lashes 2D-3D",
+    "price": "140",
+    "description": "- 2 weeks refill $90 - 3 weeks refill $110"
+  },
+  {
+    "name": "Mega Volume Lashes 3D-6D",
+    "price": "160",
+    "description": "- 2 weeks refill $90 - 3 weeks refill $110"
+  },
+  {
+    "name": "Hybrid Lashes",
+    "price": "160",
+    "description": "- 2 weeks refill $110 - 3 weeks refill $130"
+  }
+]
