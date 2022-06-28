@@ -1,13 +1,14 @@
 <script setup>
+import priceList from "../files/pricelist.json";
 import photo from "../assets/adorahaus3.jpg";
 import Row from "./Row.vue";
-import priceList from "../files/pricelist.json";
 </script>
 <template>
   <div class="flex">
     <div class="w-full bg-adora items-center flex flex-col lg:flex-row">
+      <a class="absolute top--10 hidden md:flex" id="service"></a>
       <div class="xl:w-7/12 p-6"><img :src="photo" /></div>
-      <a class="absolute top--10" id="service"></a>
+      <a class="absolute top--10 md:hidden" id="service"></a>
       <div class="xl:w-5/12">
         <div
           class="font-catamaran md:py-10 flex flex-col items-center justify-center w-full"
