@@ -26,9 +26,11 @@ const shuffedReviews = shuffleArray(reviews).slice(0, 5);
         <img :src="photo2" class="md:hidden w-5/6" />
         <div class="text-2xl flex items-center md:px-12">
           <div
-            class="flex flex-col justify-center pb-5 xl:pb-5 lg:pb-10 pt-6 space-y-6"
+            class="flex flex-col justify-center pb-5 lg:pb-10 pt-6 space-y-6"
           >
-            <h1 class="text-4xl md:text-6xl text-center md:flex md:py-6">
+            <h1
+              class="text-4xl justify-center md:text-6xl text-center md:flex md:py-6"
+            >
               What Our Clients Say
             </h1>
             <div v-for="review in shuffedReviews">
