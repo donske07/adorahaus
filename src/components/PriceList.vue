@@ -1,6 +1,6 @@
 <script setup>
 import photo from "../assets/adorahaus3.jpg";
-import Row from "./PriceList/Row.vue";
+import Row from "./Row.vue";
 import priceList from "../files/pricelist.json";
 </script>
 <template>
