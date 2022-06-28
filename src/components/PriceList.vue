@@ -4,10 +4,10 @@ import photo from "../assets/adorahaus3.jpg";
 import Row from "./Row.vue";
 </script>
 <template>
+  <a id="service"></a>
   <div class="flex">
     <div class="w-full bg-adora items-center flex flex-col lg:flex-row">
       <div class="xl:w-7/12 p-6"><img :src="photo" /></div>
-      <a class="relative top-10 md:top-72" id="service"></a>
       <div class="xl:w-5/12">
         <div
           class="font-catamaran md:py-10 flex flex-col items-center justify-center w-full"

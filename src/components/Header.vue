@@ -101,7 +101,7 @@ const toggleMobileMenu = () => (showMobileMenu.value = !showMobileMenu.value);
           >
         </div>
         <div class="flex w-1/3 justify-center">
-          <a href="#"><img class="w-96" :src="logoUrl" /></a>
+          <img class="w-96" :src="logoUrl" />
         </div>
         <div class="flex w-1/3 justify-end space-x-4 opacity-70">
           <a target="_blank" href="https://www.instagram.com/adorahaus/">
