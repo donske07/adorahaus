@@ -24,21 +24,18 @@ import video from "../assets/video.mp4";
           <p class="text-2xl">Sun: Closed</p>
         </div>
 
-        <div class="pt-2 flex flex-col">
-          <a href="tel:03-90775896" class="text-2xl space-x-4">
+        <div class="pt-2 flex flex-col text-xl">
+          <a href="tel:03-90775896" class="space-x-4">
             <font-awesome-icon icon="fa-solid fa-phone"></font-awesome-icon>
 
             <span>03 90775896</span>
           </a>
-          <a href="mailto:info@adorahaus.com.au" class="text-2xl space-x-4">
+          <a href="mailto:info@adorahaus.com.au" class="space-x-4">
             <font-awesome-icon icon="fa-solid fa-envelope"> </font-awesome-icon>
 
             <span> info@adorahaus.com.au </span>
           </a>
-          <a
-            class="text-2xl space-x-4"
-            href="https://goo.gl/maps/CLA5Mtc2NwjcQR2K6"
-          >
+          <a class="space-x-4" href="https://goo.gl/maps/CLA5Mtc2NwjcQR2K6">
             <font-awesome-icon icon="fa-solid fa-shop"></font-awesome-icon>
             <span
               >313 Bay Street<br />
