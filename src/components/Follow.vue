@@ -53,7 +53,7 @@ import insta from "../assets/insta.png";
       </div>
     </div>
     <a href="https://www.instagram.com/adorahaus/?hl=en" target="_blank">
-      <h1 class="text-gray-600 w-full text-5xl pt-6 text-center sm:hidden">
+      <h1 class="text-gray-600 w-full text-3xl pt-6 text-center sm:hidden">
         <font-awesome-icon size="xl" icon="fa-brands fa-instagram" />
         Follow Our Instagram
       </h1>

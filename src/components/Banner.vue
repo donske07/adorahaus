@@ -4,7 +4,7 @@
     class="md:pt-20 xl:pt-36 2xl:pt-60 flex flex-col items-center justify-center w-full py-10 space-y-12 font-text"
   >
     <h1
-      class="pt-10 font-catamaran text-2xl md:text-4xl flex flex-col text-center space-y-3"
+      class="pt-10 font-catamaran text-lg px-2 md:text-2xl md:text-4xl flex flex-col text-center space-y-3"
     >
       Get your nails done for great mood.<br />
       Simple pleasures can make your week, not just day.
@@ -14,8 +14,7 @@
         class="flex flex-col space-y-2 tracking-wider font-light items-center"
       >
         <svg
-          width="100"
-          height="100"
+          class="w-12 h-12 md:w-24 md:h-24"
           viewBox="0 0 48 48"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
@@ -134,14 +133,13 @@
             stroke-width="0.5"
           ></rect>
         </svg>
-        <h1 class="uppercase text-xl">Lashes</h1>
+        <h1 class="text-base md:text-xl uppercase">Lashes</h1>
       </div>
       <div
         class="flex flex-col space-y-2 tracking-wider font-light items-center"
       >
         <svg
-          width="100"
-          height="100"
+          class="w-12 h-12 md:w-24 md:h-24"
           viewBox="0 0 48 48"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
@@ -189,14 +187,13 @@
           <rect x="10" y="21" width="1" height="17" fill="black"></rect>
           <rect x="1" y="28" width="19" height="1" fill="black"></rect>
         </svg>
-        <h1 class="text-xl uppercase">Nail Art</h1>
+        <h1 class="text-base md:text-xl uppercase">Nail Art</h1>
       </div>
       <div
         class="flex flex-col space-y-2 tracking-wider font-light items-center"
       >
         <svg
-          width="100"
-          height="100"
+          class="w-12 h-12 md:w-24 md:h-24"
           viewBox="0 0 48 48"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
@@ -237,7 +234,7 @@
             stroke="black"
           ></path>
         </svg>
-        <h1 class="uppercase text-xl">Facial</h1>
+        <h1 class="text-base md:text-xl uppercase">Deploy</h1>
       </div>
     </div>
   </div>

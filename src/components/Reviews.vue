@@ -24,7 +24,7 @@ const shuffedReviews = shuffleArray(reviews).slice(0, 5);
       <div class="w-full flex flex-col lg:flex-row items-center">
         <img :src="photo" class="hidden md:flex md:w-2/5" />
         <img :src="photo2" class="md:hidden w-5/6" />
-        <div class="text-2xl flex items-center px-12">
+        <div class="text-2xl flex items-center md:px-12">
           <div
             class="flex flex-col justify-center pb-5 xl:pb-5 lg:pb-10 pt-6 space-y-6"
           >

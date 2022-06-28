@@ -13,12 +13,9 @@ const toggle = () => {
   <div
     class="w-4/5 py-4 space-y-4 text-center border-b border-gray-300 hover:opacity-70"
   >
-    <div
-      @click="toggle"
-      class="cursor-pointer flex items-center justify-between"
-    >
+    <div @click="toggle" class="cursor-pointer flex justify-between">
       <h1 class="text-left">{{ service.name }} *</h1>
-      <div class="flex space-x-5 items-center space-x-2">
+      <div class="flex space-x-5">
         <h1 class="italic">
           <span class="text-md">from</span> ${{ service.price }}
         </h1>
@@ -26,7 +23,7 @@ const toggle = () => {
       </div>
     </div>
     <div v-show="!close">
-      <p class="text-xl">{{ service.description }}</p>
+      <p class="text-xl text-left">{{ service.description }}</p>
     </div>
   </div>
 </template>
