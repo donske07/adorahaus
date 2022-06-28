@@ -11,19 +11,19 @@ const toggle = () => {
 </script>
 <template>
   <div
-    class="w-4/5 py-4 space-y-4 text-center border-b border-gray-300 hover:opacity-70"
+    class="w-4/5 py-2 space-y-4 text-center border-b border-gray-300 hover:opacity-70"
   >
     <div @click="toggle" class="cursor-pointer flex justify-between">
-      <h1 class="text-left">{{ service.name }} *</h1>
-      <div class="flex space-x-5">
-        <h1 class="italic">
+      <h1 class="text-xl text-left">{{ service.name }} *</h1>
+      <div class="flex space-x-2">
+        <h1 class="italic text-xl md:text-xl">
           <span class="text-md">from</span> ${{ service.price }}
         </h1>
         <span>+</span>
       </div>
     </div>
     <div v-show="!close">
-      <p class="text-xl text-left">{{ service.description }}</p>
+      <p class="text-xl md:text-2xl text-left">{{ service.description }}</p>
     </div>
   </div>
 </template>

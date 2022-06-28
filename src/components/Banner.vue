@@ -1,10 +1,10 @@
 <script setup></script>
 <template>
   <div
-    class="md:pt-20 xl:pt-36 2xl:pt-60 flex flex-col items-center justify-center w-full py-10 space-y-12 font-text"
+    class="pt-0 md:pt-20 xl:pt-36 2xl:pt-60 flex flex-col items-center justify-center w-full py-10 space-y-12 font-text"
   >
     <h1
-      class="pt-10 font-catamaran text-lg px-2 md:text-2xl md:text-4xl flex flex-col text-center space-y-3"
+      class="pt-10 font-catamaran text-xl px-2 md:text-2xl md:text-4xl flex flex-col text-center space-y-3"
     >
       Get your nails done for great mood.<br />
       Simple pleasures can make your week, not just day.
