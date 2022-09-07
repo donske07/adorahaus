@@ -18,8 +18,8 @@ import video from "../assets/video.mp4";
         <a href="#"><img class="w-96" :src="logoUrl" /></a>
         <h1 class="font-cormorant py-2 text-3xl md:text-4xl">Working Hours</h1>
         <div>
-          <p class="text-2xl">Mon - Weds: 9am - 5:30pm</p>
-          <p class="text-2xl">Thurs - Fri: 9am - 7:00pm</p>
+          <p class="text-2xl">Mon - Weds: 9:30am - 5:30pm</p>
+          <p class="text-2xl">Thurs - Fri: 9:30am - 7:00pm</p>
           <p class="text-2xl">Sat: 9am - 5:30pm</p>
           <p class="text-2xl">Sun: Closed</p>
         </div>
