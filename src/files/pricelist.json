@@ -1,57 +1,52 @@
 [
   {
-    "name": "Essential Manicure",
-    "price": "60",
-    "description": "- Lacquer polish $50 - Gel polish $70 - Dipping powder $85"
-  },
-  {
-    "name": "Essential Pedicure",
-    "price": "55",
-    "description": "- Lacquer polish $55 - Gel polish $75"
-  },
-  {
-    "name": "Quick Sess",
-    "price": "30",
-    "description": "- shape, cuticle care, lacquer polish and cuticle oil $30"
-  },
-  {
-    "name": "Men's care",
+    "name": "Gel",
     "price": "45",
-    "description": "- Men's manicure $45 - Men's pedicure $60 - Men's essential package $90"
+    "description": "Gel application $45 | BIAB overlay $60 | BIAB with gel colour on top $75 | Gel extension $95 | Gel extensions refill: $85 (2-3 wks)"
   },
   {
     "name": "Dipping powder",
-    "price": "55",
-    "description": "- On natural nails $55 - Extensions $70 - ombre/french addon $15"
+    "price": "60",
+    "description": "Powder overly  $60 | Powder extensions $75"
   },
   {
     "name": "Acrylic",
-    "price": "90",
-    "description": "- Full set $90 - Refill $70 - Soak off with care $15 *complimentary gel polish application"
+    "price": "85",
+    "description": "Acrylic overlay $85 | Acrylic full set $95 | Acrylic refill: $85"
   },
   {
-    "name": "Waxing",
-    "price": "20",
-    "description": "- Brows $20 - Upper lips $15 - Brows and lips $35 - Chin $15 - Under arms $20 - Half arms $30 - Full arms $40 - Bikini $25 - Brazillian $50 - Bottom $10 - Legs $50 - Half legs $30 - Toes or fingers $5 - Back $50 - Chest $40"
+    "name": "Soak off with care (Our soak off with care service includes cut, file and cuticle oil)",
+    "price": "15",
+    "description": "Gel removal $15 | Dipping powder removal $15 | BIAB removal $20 | Gel extensions removal $25 | Acrylic removal $25"
   },
   {
-    "name": "Classic Lashes 1 to 1 ratio",
-    "price": "110",
-    "description": "- 2 weeks refill $70 - 3 weeks refill $80"
+    "name": "Essential Pedicure (Pedicure steps: Detox soak, sugar scrub, mud masque, lotion, hot stones massage, cuticle work, cut, file and colour application)",
+    "price": "60",
+    "description": "Lacquer polish pedicure $60 | Gel polish pedicure $80"
   },
   {
-    "name": "Volume Lashes 2D-3D",
-    "price": "140",
-    "description": "- 2 weeks refill $90 - 3 weeks refill $110"
+    "name": "Essential manicure (Manicure steps: Cuticle work, cut, file, shape, colour application, collagen mask, mini hand massage and hot towel)",
+    "price": "40",
+    "description": "Manicure only $40 | Gel polish manicure $65 | lacquer polish manicure $50"
   },
   {
-    "name": "Mega Volume Lashes 3D-6D",
-    "price": "160",
-    "description": "- 2 weeks refill $90 - 3 weeks refill $110"
+    "name": "Essential bundles",
+    "price": "100",
+    "description": "Gel polish manicure & pedicure $140 | Lacquer polish manicure & pedicure $100"
   },
   {
-    "name": "Hybrid Lashes",
-    "price": "160",
-    "description": "- 2 weeks refill $110 - 3 weeks refill $130"
+    "name": "Men's",
+    "price": "50",
+    "description": "Men's manicure $50 | Men's pedicure $65 | Men's bundle $110"
+  },
+  {
+    "name": "Add ons",
+    "price": "10",
+    "description": "Nails repair $10+ | Cut & file only $20 | Lacquer polish paint $25 | Cutible hands $20 | Cutible toes $30 | Nails repair $10+ | French (hands): $30 | Nail art equire via Instagram for quote"
+  },
+  {
+    "name": "Wax",
+    "price": "12",
+    "description": "Brows $20 | Upper lips $15 | Brows & lips $30 | Chin $12 | Under arms $25 | Half arms $25 | Full arms $40 | Back $45 | Bikini $20 | Bottom $15 | Half legs $25 | Full legs $45 | Toes/fingers $15"
   }
 ]
