@@ -1,8 +1,8 @@
 [
   {
-    "name": "Gell",
+    "name": "Gel",
     "price": "45",
-    "description": "Gel application $45 | BIAB overlay $60 | BIAB with gel colour on top $75 | Gel extension $95 | Gel extensions refill: $85 (2-3 wks)"
+    "description": "Gel application $45 | BIAB overlay $65 | BIAB with gel colour on top $80 | Gel extension $95 | Gel extensions refill: $85 (2-3 wks)"
   },
   {
     "name": "Dipping powder",
@@ -47,6 +47,6 @@
   {
     "name": "Wax",
     "price": "12",
-    "description": "Brows $20 | Upper lips $15 | Brows & lips $30 | Chin $12 | Under arms $25 | Half arms $25 | Full arms $40 | Back $45 | Bikini $20 | Bottom $15 | Half legs $25 | Full legs $45 | Toes/fingers $15"
+    "description": "Brows $20 | Upper lips $15 | Brows & lips $30 | Chin $12 | Under arms $25 | Half arms $30 | Full arms $40 | Back $45 | Bottom $15 | Half legs $40 | Full legs $60 | Toes/fingers $15"
   }
 ]
